@@ -178,3 +178,4 @@ Your existing music files in `~/Music` can serve as audio references:
 ---
 
 *Sheet music directory created: 2026-08-24*
+# poster-themes
