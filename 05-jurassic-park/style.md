@@ -1,0 +1,1 @@
+Majestic prehistoric orchestral hymn, John Williams style. 84 BPM, E minor to Eb major. Deep cello and bass drones, warm French horns, lyrical woodwinds, sweeping strings, concert timpani. Awe, wonder. Strictly no drum kit, no modern percussion, no beats.

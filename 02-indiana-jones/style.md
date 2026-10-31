@@ -1,0 +1,1 @@
+Heroic cinematic adventure march, John Williams style. 108 BPM, triumphant C major. Majestic French horns, heraldic trumpets, classical orchestral strings, concert timpani, harp glissandos. Grand, bold. Strictly no drum kit, no rock drums, no modern beats.

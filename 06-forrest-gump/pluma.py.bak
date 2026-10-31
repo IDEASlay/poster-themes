@@ -1,0 +1,66 @@
+FAL_KEY =  "cbe32ca4-97fe-4cba-a631-44f3987e1b55:59334b4a89dc4c7253800828cf955071"
+import fal_client
+
+
+def on_queue_update(update):
+    if isinstance(update, fal_client.InProgress):
+        for log in update.logs:
+            print(log["message"])
+
+
+result = fal_client.subscribe(
+    "fal-ai/minimax-music/v2",
+    arguments={
+        "prompt": """iconic Oscar winning blockbuster earworm piano film anthem with earnest yearning slowly earns humble gravitas, cowbell, feather played by Jessica Tandy floats over Savannah Georgia makes America cry, 1990s American heartland score, simple piano starts almost inaudibly to see if we are home, detached gently separated piano notes, each phrase is declarative ending on a downbeat holding for one beat, unhurried deliberate touch, not smooth and connected, not clipped short, gentle rocking arpeggiated left hand over sustained bass notes, simple childlike stepwise tune, warm major key, intimate and nostalgic, delicate pedaled piano, gradually blossoming into lush orchestral strings, soaring passionate middle section with sweeping heartfelt strings, returns to fragile simplicity, slow build from a whisper, finale becomes rhythmic and excited with driving momentum, hopeful wide-eyed Americana wonder, understated sentimentality, crisp intimate piano recording, cinematic emotional arc, silvest""",
+        "lyrics_prompt": """[Female Singer Jessica]
+(Spoken) oh feather, mi plumita, fly into their...
+(suddenly urgent) Run, Forrest. Run! (full-throated)
+Ruuuuuuuunnnnnnn
+[a gospel choir supports her heavenly trills]
+ohhhhhhh
+[Jessica Tandy]
+La vida es como un turron de chocolate, en estas navidades turron de chocolate, azucar!
+estupido pero, no lo es,
+su madre se le dijo,
+y ellos le dijeron,
+you cant sit here
+[gospel choir joins for breathy harmonic ahhhhhs under main belt]
+[Jessica Tandy]
+go fly far far away...
+[choir]
+(ahhhhhh)
+[Jessica Tandy]
+please promise me....
+[choir]
+(ahhhhhhhh)
+[Jessica Tandy]
+take the feather and...
+[choir]
+(ahhhhhhhh)
+[Jessica Tandy]
+dont look back,
+[choir]
+oh oh oh oh
+don't look for me,
+you be the feather and
+flyyyyyyyyyyyyy
+[choir]
+(ahhhhhhhh)
+be freeeeeee (ahhhhhhhhh)
+(full throated is back and she wants the oscar)
+Run, my baby,
+Ruuuuuuuuuunnnnnnnnnn!!!!
+(spoken while laughing)
+that fuckin feather
+oooooooohh
+oh oh oh oh oh
+ahhhhhhhhhhhhhhhhhh
+mi plumita tiene que volar libre
+plumaaaaaaaaa vuelaaaaaaaaaa""",
+    },
+    with_logs=True,
+    on_queue_update=on_queue_update,
+)
+
+print(result)
+

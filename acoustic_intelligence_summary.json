@@ -1,0 +1,69 @@
+{
+  "gremlins": {
+    "bpm": 120,
+    "key": "F# minor",
+    "centroid": 3965.5103078431584,
+    "timbre": "Brilliant, crystalline, brass-forward and soaring high-register presence",
+    "dynamic_range": 10.4948091506958,
+    "dynamic_arc": "Steady, noble, and deeply expressive melodic flow",
+    "tailored_prompt": "120 BPM cinematic orchestral theme in F# minor. Brilliant, crystalline, brass-forward and soaring high-register presence. Steady, noble, and deeply expressive melodic flow. Featuring upright ragtime tack piano lead, playful pizzicato strings, bright xylophone runs, triangle accents, and a single dry cowbell hit. Completely drum-free, pristine acoustic film score recording.",
+    "midi_info": {
+      "bpm": 120,
+      "time_signature": "4/4",
+      "detected_instruments": [],
+      "total_notes": 94,
+      "key": "F# minor",
+      "duration_seconds": 34.9
+    }
+  },
+  "indiana_jones": {
+    "bpm": 128,
+    "key": "F major",
+    "centroid": 1625.3560728890375,
+    "timbre": "Balanced lyrical acoustic warmth with sparkling, expressive overtones",
+    "dynamic_range": 16.211732864379883,
+    "dynamic_arc": "Intimate whisper building in a patient crescendo to a sweeping symphonic climax",
+    "tailored_prompt": "128 BPM cinematic orchestral theme in F major. Balanced lyrical acoustic warmth with sparkling, expressive overtones. Intimate whisper building in a patient crescendo to a sweeping symphonic climax. Featuring majestic unison French horn fanfares, crisp heraldic trumpets, soaring classical violins, concert timpani, and rapid harp glissandos. Completely drum-free, pristine acoustic film score recording.",
+    "midi_info": null
+  },
+  "star_wars": {
+    "bpm": 104,
+    "key": "A# minor",
+    "centroid": 1875.4549047508374,
+    "timbre": "Balanced lyrical acoustic warmth with sparkling, expressive overtones",
+    "dynamic_range": 56.359615325927734,
+    "dynamic_arc": "Grand emotional opening gradually softening into a tender, contemplative resolution",
+    "tailored_prompt": "104 BPM cinematic orchestral theme in A# minor. Balanced lyrical acoustic warmth with sparkling, expressive overtones. Grand emotional opening gradually softening into a tender, contemplative resolution. Featuring stately four-part brass chorale, brilliant virtuoso trumpet fanfare, sweeping symphonic string section, deep thunderous orchestral timpani rolls, and ringing tubular bells. Completely drum-free, pristine acoustic film score recording.",
+    "midi_info": null
+  },
+  "back_to_future": {
+    "bpm": 94,
+    "key": "G# minor",
+    "centroid": 2308.4975825603274,
+    "timbre": "Brilliant, crystalline, brass-forward and soaring high-register presence",
+    "dynamic_range": 62.80744171142578,
+    "dynamic_arc": "Steady, noble, and deeply expressive melodic flow",
+    "tailored_prompt": "94 BPM cinematic orchestral theme in G# minor. Brilliant, crystalline, brass-forward and soaring high-register presence. Steady, noble, and deeply expressive melodic flow. Featuring delicate acoustic grand piano intro blooming into soaring warm violins, noble lyrical French horns, sparkling orchestral chimes, and a single dry cowbell stroke. Completely drum-free, pristine acoustic film score recording.",
+    "midi_info": null
+  },
+  "jurassic_park": {
+    "bpm": 94,
+    "key": "A# major",
+    "centroid": 1653.7817435319964,
+    "timbre": "Balanced lyrical acoustic warmth with sparkling, expressive overtones",
+    "dynamic_range": 42.43919372558594,
+    "dynamic_arc": "Intimate whisper building in a patient crescendo to a sweeping symphonic climax",
+    "tailored_prompt": "94 BPM cinematic orchestral theme in A# major. Balanced lyrical acoustic warmth with sparkling, expressive overtones. Intimate whisper building in a patient crescendo to a sweeping symphonic climax. Featuring deep warm cello and double bass foundation, noble expressive French horn melody, lyrical pastoral woodwinds, sweeping romantic violins, and a soaring triumphant brass chorale. Completely drum-free, pristine acoustic film score recording.",
+    "midi_info": null
+  },
+  "pluma": {
+    "bpm": 94,
+    "key": "B major",
+    "centroid": 1511.370826745713,
+    "timbre": "Balanced lyrical acoustic warmth with sparkling, expressive overtones",
+    "dynamic_range": 24.81262969970703,
+    "dynamic_arc": "Grand emotional opening gradually softening into a tender, contemplative resolution",
+    "tailored_prompt": "94 BPM cinematic orchestral theme in B major. Balanced lyrical acoustic warmth with sparkling, expressive overtones. Grand emotional opening gradually softening into a tender, contemplative resolution. Featuring solo acoustic grand piano with gentle rocking porch-swing arpeggios, warm sustained bass notes, soaring emotional cello countermelodies, and lush symphonic strings. Completely drum-free, pristine acoustic film score recording.",
+    "midi_info": null
+  }
+}

@@ -1,0 +1,1 @@
+Whimsical nostalgic orchestral waltz, Alan Silvestri style. 120 BPM, A major, 3/4 waltz feel. Solo acoustic piano, warm strings, French horns, subtle synth pad shimmer, single cowbell stroke. Time-bending, playful. Strictly no rock drums, no modern drum kit.

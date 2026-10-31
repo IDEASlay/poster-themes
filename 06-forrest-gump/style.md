@@ -1,0 +1,1 @@
+Classical cinematic film score, Alan Silvestri style. 74 BPM, D major. Delicate solo acoustic piano and tender symphonic chamber strings. Nostalgic, bittersweet, intimate. Strictly no drums, no percussion, no beats, no drum kit.

@@ -1,0 +1,1 @@
+1980s comedic ragtime, Jerry Goldsmith style. 132 BPM, D minor. Solo upright ragtime piano, pizzicato strings, xylophone, triangle, single cowbell hit. Mischievous, quirky. Strictly no drums, no drum kit, no modern beats.

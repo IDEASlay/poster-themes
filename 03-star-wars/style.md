@@ -1,0 +1,1 @@
+Epic space opera fanfare, John Williams style. 96 BPM, C major. Stately brass chorale, heroic trumpets, sweeping symphonic strings, deep orchestral timpani rolls, tubular bells. Ceremonial, cosmic, triumphant. Strictly orchestral, no drum set, no electronic drums.
